@@ -22,7 +22,8 @@ namespace AppG12019
 
         private void LinkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            OpenFileDialog openFileDialog = new OpenFileDialog();
+            #region Chọn ảnh
+            var openFileDialog = new OpenFileDialog();
             openFileDialog.Title = "Chọn ảnh đại diện";
             openFileDialog.Filter = "Bạn phải chọn file ảnh (*.png, *.jpg| *.png;*.jpg)";
             if (openFileDialog.ShowDialog() == DialogResult.OK)
@@ -30,10 +31,11 @@ namespace AppG12019
                 var fileName = openFileDialog.FileName;
                 pictureBox1.Image = Image.FromFile(fileName);
 
-                if(!Directory.Exists(Application.StartupPath +"\\avatar"))
+                if (!Directory.Exists(Application.StartupPath + "\\avatar"))
                     Directory.CreateDirectory(pathAvatarFolder);
                 pictureBox1.Image.Save(pathAvatarFolder + @"\avatar.png");
-            }
+            } 
+            #endregion
         }
     }
 }
