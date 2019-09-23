@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\AppG12019\AppG12019\bin\Debug\AppG12019.exe.config
+C:\Users\Admin\Desktop\AppG12019\AppG12019\bin\Debug\AppG12019.exe
+C:\Users\Admin\Desktop\AppG12019\AppG12019\bin\Debug\AppG12019.pdb
+C:\Users\Admin\Desktop\AppG12019\AppG12019\obj\Debug\AppG12019.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\AppG12019\AppG12019\obj\Debug\AppG12019.frmThongTinhSinhVien.resources
+C:\Users\Admin\Desktop\AppG12019\AppG12019\obj\Debug\AppG12019.frmTinhToanCoBan.resources
+C:\Users\Admin\Desktop\AppG12019\AppG12019\obj\Debug\AppG12019.Properties.Resources.resources
+C:\Users\Admin\Desktop\AppG12019\AppG12019\obj\Debug\AppG12019.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\AppG12019\AppG12019\obj\Debug\AppG12019.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\AppG12019\AppG12019\obj\Debug\AppG12019.exe
+C:\Users\Admin\Desktop\AppG12019\AppG12019\obj\Debug\AppG12019.pdb
